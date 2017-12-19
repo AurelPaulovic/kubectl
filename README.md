@@ -1,2 +1,4 @@
 # kubectl
-Kubectl docker contianers
+Kubectl docker containe images
+
+This is forked from https://github.com/BuoyantIO/kubectl
